@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/responsive-tables-cell-styles"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pricingtable"
+	}
+}
